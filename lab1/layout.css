@@ -1,9 +1,5 @@
 @media only screen and (max-width: 767px){
-    .d{
 
-        visibility: hidden;
-
-     }
      main{
 
         width:482px;
@@ -156,13 +152,7 @@
 }
 
 @media only screen and (min-width:769px){
-    .d{
-        position: absolute;
-        left: 0px;
-        top: 0px;
-        z-index: -1;
-
-     }
+  
     header{
 
         padding-top:60px;

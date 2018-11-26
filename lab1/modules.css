@@ -1,9 +1,10 @@
-/* @media only screen and (max-width: 767px){
+@media only screen and (max-width: 767px){
     .d{
 
         visibility: hidden;
 
      }
+    }
 
      @media only screen and (min-width:769px){
         .d{
@@ -12,4 +13,5 @@
             top: 0px;
             z-index: -1;
     
-         } */
+         }
+        }
